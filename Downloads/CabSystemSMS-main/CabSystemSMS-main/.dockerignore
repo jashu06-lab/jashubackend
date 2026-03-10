@@ -1,0 +1,12 @@
+# Only exclude these specific files
+.git
+.gitignore
+.gitattributes
+README.md
+DOCKER_README.md
+render.yaml
+docker-compose.yml
+build-docker.bat
+fix-render-deployment.bat
+Dockerfile.multi
+Dockerfile.simple
